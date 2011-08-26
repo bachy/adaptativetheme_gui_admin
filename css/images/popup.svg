@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="260px"
+	 height="480px" viewBox="0 0 260 480" enable-background="new 0 0 260 480" xml:space="preserve">
+<g id="svg2" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:version="0.32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:version="0.46" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:export-xdpi="90" xmlns:cc="http://creativecommons.org/ns#" sodipodi:docname="popup.svg" inkscape:export-ydpi="90" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-filename="/home/devseed/d6/sites/all/themes/rubik/images/popup.png" inkscape:output_extension="org.inkscape.output.svg.inkscape" display="none">
+	<defs  display="inline">
+		
+		
+			<inkscape:perspective  id="perspective10" inkscape:vp_x="0 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_y="0 : 1000 : 0" sodipodi:type="inkscape:persp3d" inkscape:vp_z="744.09448 : 526.18109 : 1">
+			</inkscape:perspective>
+	</defs>
+	
+		<sodipodi:namedview  id="base" inkscape:current-layer="layer1" showgrid="false" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="14.551915" inkscape:cx="13.515505" inkscape:cy="13.816348" inkscape:document-units="px">
+		<inkscape:grid  visible="true" id="grid3153" enabled="true" type="xygrid"></inkscape:grid>
+	</sodipodi:namedview>
+	<g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer" display="inline">
+		<path id="rect3157" sodipodi:nodetypes="ccccccccc" fill="#DEDEDE" d="M0,0v470h260V0h-1v469H1V0H0z"/>
+		<path id="rect3163" fill="#DEDEDE" d="M0,469v1h260v-1h-1.084H1.083H0z"/>
+		<rect id="rect3273" y="470" opacity="0.95" fill="#DEDEDE" enable-background="new    " width="130" height="1.5"/>
+		<rect id="rect3263" x="130" y="470" opacity="0.95" fill="#DEDEDE" enable-background="new    " width="130" height="1.5"/>
+		<rect id="rect3155" x="1" fill="#DEDEDE" width="258" height="469"/>
+		<path id="path3159" sodipodi:nodetypes="ccc" fill="#DEDEDE" d="M120.5,469l9.5,11l9.5-11"/>
+		<path id="path3165" sodipodi:nodetypes="ccc" fill="#DEDEDE" d="M122,469l8,9.5l8-9.5"/>
+		<path id="rect3285" sodipodi:nodetypes="ccccccccccc" fill="#DEDEDE" d="M1,468v1h121l8,9.5l8-9.5h121v-1H137l-7,8.5l-7-8.5H1z"/>
+		<rect id="rect3294" x="258" fill="#DEDEDE" width="1" height="469"/>
+		<rect id="rect3296" x="1" fill="#DEDEDE" width="1" height="469"/>
+	</g>
+</g>
+<g id="svg2_copy" xmlns:svg="http://www.w3.org/2000/svg" sodipodi:version="0.32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:version="0.46" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:export-xdpi="90" xmlns:cc="http://creativecommons.org/ns#" sodipodi:docname="popup.svg" inkscape:export-ydpi="90" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" inkscape:export-filename="/home/devseed/d6/sites/all/themes/rubik/images/popup.png" inkscape:output_extension="org.inkscape.output.svg.inkscape">
+	<defs>
+		
+		
+			<inkscape:perspective  id="perspective10" inkscape:vp_x="0 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_y="0 : 1000 : 0" sodipodi:type="inkscape:persp3d" inkscape:vp_z="744.09448 : 526.18109 : 1">
+			</inkscape:perspective>
+	</defs>
+	
+		<sodipodi:namedview  id="base" inkscape:current-layer="layer1" showgrid="false" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="14.551915" inkscape:cx="13.515505" inkscape:cy="13.816348" inkscape:document-units="px">
+		<inkscape:grid  visible="true" id="grid3153" enabled="true" type="xygrid"></inkscape:grid>
+	</sodipodi:namedview>
+	<g id="layer1_1_" inkscape:label="Layer 1" inkscape:groupmode="layer">
+		<g id="path3159_1_" sodipodi:nodetypes="ccc">
+			<polygon fill="#F0F0F0" points="120.614,468.25 0.25,468.25 0.25,-0.75 259.75,-0.75 259.75,468.25 139.386,468.25 130,479.117 
+							"/>
+			<path fill="#666666" d="M259.5-0.5V468h-120h-0.229l-0.149,0.173L130,478.735l-9.122-10.562L120.729,468H120.5H0.5V-0.5H259.5
+				 M260-1H0v469.5h120.5l9.5,11l9.5-11H260V-1L260-1z"/>
+		</g>
+	</g>
+</g>
+</svg>

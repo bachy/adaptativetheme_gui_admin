@@ -1,0 +1,279 @@
+
+/** body */
+body{background-color: #DEDEDE;}
+#page{background-color: #FFF;}
+
+/**
+* Banner 
+*/
+
+#banner hgroup{min-height:5em; padding-top:2em;}
+#site-name a:link, #site-name a:visited{color: #DEDEDE;}
+#breadcrumb{margin:5px 0;}
+
+
+
+/**
+* Footer 
+*/
+
+
+#page-footer{background-color: #555; margin:0;}
+#page-footer{color:#FFF; }
+#page-footer .block{display: inline-block; background-color: #2A2A2A; margin-left:1em;
+	-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		
+}
+#page-footer .block-inner{text-align:left!important; background-color: transparent; border: 0 solid #999; margin-bottom:1em; font-size:0.8em;}
+
+
+
+/** primary task */
+#primary-tasks{border-bottom:1px solid #CCC;}
+
+
+ul.primary li a, ul.secondary li a{
+	background: white;
+	color: #666;
+	font-size:1em;
+}
+
+ul.primary li.active a, ul.secondary li.active a{
+	background: #CCC;
+	color: white;
+}
+ul.primary li.active a{
+	font-size:1.2em;
+}
+
+
+/**
+ * Messages.
+ */
+div.messages {
+	position:relative;
+  padding: 9px;
+  margin: 0.5em 0 0;
+  color: #036;
+  background: #bdf;
+  border: 1px solid #ace;
+	-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+
+}
+
+div.messages span.close{
+	font-weight:bold;
+	cursor:pointer;
+	padding:0 5px;
+	position:absolute;
+	top:0;
+	right:0;
+}
+
+div.warning {
+  color: #840;
+  background: #fe6;
+  border-color: #ed5;
+}
+
+div.error {
+  color: #fff;
+  background: #e63;
+  border-color: #d52;
+}
+
+div.error p.error {
+  color: #333;
+}
+
+div.status {
+  color: #360;
+  background: #cf8;
+  border-color: #be7;
+}
+
+
+/**
+ * Help.
+ */
+#help {
+  font-size: 0.9em;
+  margin-top: 1em;
+}
+
+#help p {
+  margin: 0 0 10px;
+}
+
+#help div.more-help-link {
+  text-align: right;
+}
+
+
+div.help {
+background-image: none;
+background-color:#bdf;
+border:1px solid #66BEF4;
+color:#1A1A1A;
+	padding:9px;
+}
+
+div.help p{
+margin:0;
+
+}
+
+/**
+* Descrition as popup
+*/
+form:not(	#views-ui-config-item-form ) .form-item {
+    position:relative;
+/*    padding:9px;*/
+    }
+
+	form:not(	#views-ui-config-item-form ) .form-item .description{
+	  position:absolute;
+	  bottom:140%;
+/*	  right:-15px;*/
+	  z-index:5;
+		left:50%;
+	  color:#1A1A1A;
+		line-height:1.1;
+	  background:url(images/popup.png) 50% 100% no-repeat;
+	  width:240px;
+	  margin:0px 0px -15px;
+	  padding:9px 10px 20px;
+	  display:none;
+		border-top: 1px solid #9F9F9F;
+	  }
+ form:not(	#views-ui-config-item-form )  .form-item:hover {
+    z-index:1;
+    height:auto; /* Fix for flicker in IE7 */
+    }
+ form:not(	#views-ui-config-item-form )  .form-item:hover > .description { display:block; }
+
+
+.node-form .form-text, .form-text{width:auto;}
+
+/**
+* Butons
+*/
+
+
+/* INPUT SUBMIT STANDARD BLEU */
+
+
+input.form-submit,input.teaser-button, .node-edit a, .node-delete a, a.button{
+	
+	border:0 solid #fff;
+	outline:none;
+  color:#333;
+	font-weight:normal;
+	background:#bdf url(images/bleeds.png) 0px 100px repeat-x!important; 
+	padding:2px 5px 4px;
+	margin:2px;
+	-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+	  border-width:1px;
+	  border-style:solid;
+	  border-color:#ddd #ddd #ccc;
+	
+	
+}
+/* views admin/content/all custom links */
+.node-edit a, .node-delete a{font-size:0.8em; margin:4px 0 3px 0; padding:1px 4px 3px;}
+
+
+
+input.teaser-button:hover,
+input.form-submit:hover,
+input.teaser-button:active,
+input.form-submit:active,
+.node-edit a:hover, .node-delete a:hover,
+.node-edit a:active, .node-delete a:active,
+a.button:hover, a.button:active{ 
+	background-position: 0px 0px!important;
+	color:#bdf;
+}
+
+
+/* INPUT SUBMIT VALIDER VERT */
+
+/*input[value~=Save],#system-theme-settings input#edit-submit,,input#edit-save.form-submit,*/
+input[value~=Save],
+input#edit-save.form-submit,
+input#edit-submit.form-submit,
+.node-form input#edit-submit.form-submit,
+#system-theme-settings input#edit-submit,
+.node-edit a{
+	background-color:#CF8!important;
+
+}
+
+input[value~=Save]:hover,
+input#edit-save.form-submit:hover,
+input#edit-submit.form-submit:hover,
+.node-form input#edit-submit.form-submit:hover,
+#system-theme-settings input#edit-submit:hover,
+.node-edit a:hover,
+/**/
+input[value~=Save]:active,
+input#edit-save.form-submit:active,
+input#edit-submit.form-submit:active,
+.node-form input#edit-submit.form-submit:active,
+#system-theme-settings input#edit-submit:active,
+.node-edit a:active{
+	color: #CF8;	
+/*	background-position: 0px 0px!important;*/
+}
+
+
+
+/* INPUT SUBMIT SUPPRIMER ROUGE */
+
+input#edit-delete.form-submit,
+#system-modules-uninstall input#edit-submit,
+#user-multiple-delete-confirm input#edit-submit,
+.remove-display input.form-submit,
+input#edit-remove.form-submit,
+.node-delete a{
+background-color:#F48958!important;
+}
+
+input#edit-delete.form-submit:hover,
+#system-modules-uninstall input#edit-submit:hover,
+#user-multiple-delete-confirm input#edit-submit:hover,
+.remove-display input.form-submit:hover,
+input#edit-remove.form-submit:hover,
+.node-delete a:hover,
+/**/
+input#edit-delete.form-submit:active,
+#system-modules-uninstall input#edit-submit:active,
+#user-multiple-delete-confirm input#edit-submit:active,
+.remove-display input.form-submit:active,
+input#edit-remove.form-submit:active,
+.node-delete a:active{
+	color: #e63;
+/*	background-position: 0px 0px;*/
+}
+
+/* INPUT SUBMIT AJAX */
+input.ahah-processed{
+	background:#e7e7e7 url(images/bleeds.png) 0px -41px repeat-x!important; 
+	border: 1px solid #848484;
+	color:#494949;
+}
+
+
+
+/* table */
+table{border:1px solid #D8D8D8;}
+thead th, thead tr{background-color: #E0E0D8;}
+table tr, table tr.odd, table tr.even{border-bottom:1px solid #D8D8D8;}
+table tr.odd{background-color: #EEE;}
+table tr.odd:focus, table tr.even:focus, table tr.odd:hover, table tr.even:hover{background-color: #DAECF6;}
